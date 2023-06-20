@@ -1,4 +1,4 @@
-## Oii sou Marcos Gabriel, engenheiro de software que adora desenvolver aplicações
+## Oii sou Marcos Gabriel, let's code!
 
 <div>
   <a href="https://github.com/Marc0sGabriel">
