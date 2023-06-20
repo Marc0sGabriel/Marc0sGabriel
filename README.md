@@ -1,9 +1,10 @@
 ## Oii sou Marcos Gabriel, let's code!
 
 <div>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=marc0sgabriel&show_icons=true&locale=en&theme=radical&layout=compact" alt="marc0sgabriel" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marc0sgabriel&theme=radical" alt="marc0sgabriel" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marc0sgabriel&show_icons=true&locale=en&layout=compact&theme=radical" alt="marc0sgabriel" />
+  <a href="https://github.com/Marc0sGabriel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marc0sgabriel&show_icons=true&locale=en&theme=radical&layout=compact" alt="marc0sgabriel" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marc0sgabriel&show_icons=true&locale=en&layout=compact&theme=radical" alt="marc0sgabriel" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marc0sgabriel&theme=radical" alt="marc0sgabriel" />
 </div>
 
 <div style="display: inline_block"><br>
