@@ -1,5 +1,7 @@
 ## Oii sou Marcos Gabriel, let's code!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74994&center=false&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
+
 <div>
   <a href="https://github.com/Marc0sGabriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marc0sgabriel&show_icons=true&locale=en&theme=radical&layout=compact" alt="marc0sgabriel" />
