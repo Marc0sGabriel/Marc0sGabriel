@@ -1,6 +1,9 @@
-## Oii sou Marcos Gabriel, let's code!
+## Hello I'm Marcos Gabriel, let's code!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74994&center=false&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
+
+- Knowledge: Nodejs, Javascript, React, Nextjs, Typescript, Scss, PostgreSQL, and Docker.
+- marcosgdeveloper@gmail.com
 
 <div>
   <a href="https://github.com/Marc0sGabriel">
@@ -19,7 +22,6 @@
   <img align="center" alt="Marcos-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="30"/>
   <img align="center" alt="Marcos-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30"/>
 </div>
 
 
