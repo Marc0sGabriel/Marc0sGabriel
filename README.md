@@ -4,6 +4,7 @@
 
 - Knowledge: Nodejs, Javascript, React, Nextjs, Typescript, Scss, PostgreSQL, and Docker.
 - marcosgdeveloper@gmail.com
+- <a href="https://marcosgdeveloper.vercel.app/" target="_blank">My Portfolio</a>
 
 <div>
   <a href="https://github.com/Marc0sGabriel">
@@ -20,8 +21,6 @@
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcos-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="30"/>
-  <img align="center" alt="Marcos-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
 
 
