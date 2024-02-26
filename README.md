@@ -7,8 +7,7 @@
 - <a href="https://marcosgdeveloper.vercel.app/" target="_blank">My Portfolio</a>
 
 <div>
-  <a href="https://github.com/Marc0sGabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marc0sgabriel&show_icons=true&locale=en&theme=radical&layout=compact" alt="marc0sgabriel" />
+  <a href="https://github.com/Marc0sGabriel" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marc0sgabriel&show_icons=true&locale=en&layout=compact&theme=radical" alt="marc0sgabriel" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marc0sgabriel&theme=radical" alt="marc0sgabriel" />
 </div>
@@ -28,7 +27,7 @@
   
 <div> 
   <a href="https://instagram.com/marcos.codes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:marcosgdeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href ="https://marcosgdeveloper.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-%23599?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href ="mailto:marcosgdeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-brightgreen?style=for-the-badge&logo=gmail&logoColor=%2311111b&color=%2394e2d5" target="_blank"></a>
+  <a href ="https://marcosgdeveloper.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-brightgreen?style=for-the-badge&logo=google%20chrome&logoColor=%2311111b&color=%23b4befe" target="_blank"></a>
 
 </div>
