@@ -1,8 +1,8 @@
 ## Hello I'm Marcos Gabriel, let's code!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74994&center=false&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74994&center=false&width=435&lines=Software+Engineer)](https://git.io/typing-svg)
 
-- Knowledge: Nodejs, Javascript, React, Nextjs, Typescript, Scss, PostgreSQL, and Docker.
+- Knowledge: Golang, Javascript, Typescript, PostgreSQL, and Docker.
 - marcosgdeveloper@gmail.com
 - <a href="https://marcosgdeveloper.com.br/" target="_blank">My Portfolio</a>
 
