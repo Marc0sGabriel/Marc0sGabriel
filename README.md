@@ -26,8 +26,5 @@
   ## 
   
 <div> 
-  <a href="https://instagram.com/marcos.codes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:marcosgdeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-brightgreen?style=for-the-badge&logo=gmail&logoColor=%2311111b&color=%2394e2d5" target="_blank"></a>
   <a href ="https://marcosgdeveloper.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-brightgreen?style=for-the-badge&logo=google%20chrome&logoColor=%2311111b&color=%23b4befe" target="_blank"></a>
-
 </div>
